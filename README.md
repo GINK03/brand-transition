@@ -1,4 +1,4 @@
-# brand-trend
+# brand-transition(ブランドの変遷)
 
 SVMで極性評価した単語をもちいて、声優のポジティブネスをniconicoニュースコーパスを利用して、時系列的に表現します  
 
