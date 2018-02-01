@@ -22,3 +22,8 @@ SVMで極性評価した単語をもちいて、声優のポジティブネス�
   <img width="550px" src="https://user-images.githubusercontent.com/4949982/35660883-1e6ecc18-0752-11e8-96f2-450e3d5bbfa0.png">
 </p>
 <div align="center"> 図2. 水瀬いのりの時系列データ </div>
+
+<p align="center">
+  <img width="550px" src="https://user-images.githubusercontent.com/4949982/35662731-0ee4d200-075d-11e8-9581-b3288eb9b878.png">
+</p>
+<div align="center"> 図3. 日笠陽子の時系列データ </div>
