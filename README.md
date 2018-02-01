@@ -9,3 +9,7 @@
 </p>
 <div align="center"> 図1. 早見沙織の時系列データ </div>
 
+<p align="center">
+  <img width="550px" src="https://user-images.githubusercontent.com/4949982/35660883-1e6ecc18-0752-11e8-96f2-450e3d5bbfa0.png">
+</p>
+<div align="center"> 図2. 水瀬いのりの時系列データ </div>
