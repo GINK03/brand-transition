@@ -120,6 +120,27 @@ niconiconewsのコーパスは、毎日、ある程度更新されており、�
 </p>
 <div align="center"> 図3. 日笠陽子の時系列データ </div>
 
+## オペレーション
+**レビュー情報をパース**  
+```console
+$ python3 10-scan-reviews.py
+```
+**liblinear(sigmoid)で学習したウェイトを分析して、単語の重み付きファイルを構築する**  
+```console
+$ python3 20-scan-weights.py 
+```
+**niconico newsを時系列で処理する**  
+```console
+$ python3 30-news-time-series.py  
+```
+**声優名が含まれるコーパスを重み付き単語ファイルで評価**  
+```console
+$ python3 40-actor-time-series-polarity.py
+```
+**各々の声優名のデータを取り出す**
+```console
+$ python3 50-data-pick.py 
+```
 ## 結果
  このように、時系列データして扱うと、ところどころ、ポジティブさみたいなものが跳ねるような事象を観測することができて、プラスの意味での炎上（ただの話題ですが）を観測したりアラートを流すことができたりしそうです。  
  
