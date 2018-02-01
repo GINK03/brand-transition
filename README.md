@@ -122,7 +122,8 @@ niconiconewsのコーパスは、毎日、ある程度更新されており、�
 
 ## オペレーション  
 
-niconico newsなどのコーパスは各自、独力でご用意ください  
+niconico newsなどのコーパスは各自でご用意ください  
+
 ([スクレイパー](https://github.com/GINK03/unofficial-niconico-news-corpus)もありますが、1secのsleepを入れていますが、そもそもどの程度許容されるものなのかよくわかっていません)  
 
 **レビュー情報をパース**  
