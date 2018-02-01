@@ -93,7 +93,13 @@ R&B 2.6851915989280470909009
 <div align="center"> 図1. </div>
 
 ## 時系列的にドキュメントを並べて、ある人名のポジティブ度をSVMで作成した重みを利用して時系列順に並べる
+niconiconewsのコーパスは、毎日、ある程度更新されており、ライセンスの関係かわかりませんか、結構昔に遡れます  
+そのため、コーパスを日時の粒度でまとめて、並べ直して、その時のniconiconewsのコーパスを利用すると、このようにすることができます。  
 
+<p align="center">
+  <img width="500px" src="https://user-images.githubusercontent.com/4949982/35667051-8dbb39f4-076f-11e8-89e5-e10431b9b154.png">
+</p>
+<div align="center"> 図2. </div>
 
 ## 実験結果
 
